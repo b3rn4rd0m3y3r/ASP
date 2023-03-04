@@ -1,0 +1,3 @@
+<%
+Response.write "ASP OK"
+%>
